@@ -1,6 +1,9 @@
 # Ovia
 An intelligent, math-first notebook app — by Novyent™
 
+Join me on Reddit: [https://t.co/gci9m4pimr ](https://www.reddit.com/r/Novyent/)
+Join me on X: https://x.com/novyent_off
+
 # Ovia – An Intelligent Math Notebook
 
 Ovia is a visual, AI-ready math notebook built by **Srijib Paul** under the **Novyent™** brand. It's more than a note app — it's a logic ecosystem for deep thinkers, curious students, and bold inventors.
@@ -35,3 +38,6 @@ Ovia is a visual, AI-ready math notebook built by **Srijib Paul** under the **No
 
 Follow this project, contribute ideas, or just watch it grow.  
 Ovia — the first manifestation of Novyent’s intelligence.
+
+Join me on Reddit: [https://t.co/gci9m4pimr ](https://www.reddit.com/r/Novyent/)
+Join me on X: https://x.com/novyent_off
